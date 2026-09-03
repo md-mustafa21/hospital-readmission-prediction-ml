@@ -186,7 +186,5 @@ These features suggest that hospital utilization, treatment intensity, and patie
 hospital-readmission-prediction-ml/
 │
 ├── Hospital_Readmission_Prediction_ML.ipynb
-├── hospital_readmission_random_forest.pkl
-├── readmission_preprocessor.pkl
 ├── cleaned_diabetes_readmission_dataset.csv
 └── README.md
